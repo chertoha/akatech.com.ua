@@ -1,0 +1,34 @@
+html, body{
+    font-family: Verdana;
+    font-size: 14px;
+}
+
+.auth_form{
+    margin:20px auto;
+    padding: 15px;
+    text-align: center;
+    
+    width: 250px;
+    background-color: menu;
+    border:1px solid grey;
+    border-radius: 10px;
+}
+
+.auth_form form{
+    margin: 0;
+}
+.auth_form input[type='text']{
+    margin: 2px 0 15px 0;
+}
+.auth_form input[type='checkbox']{
+    margin: 15px 10px 5px 0;
+}
+.auth_form input[type='submit']{
+    margin: 10px 0 10px 0;
+}
+
+.error{
+    color: red;
+    font-weight: bold;
+    font-size: 10px;
+}

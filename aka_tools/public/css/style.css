@@ -1,0 +1,219 @@
+body{
+    margin-top: 60px;
+    
+}
+
+
+
+.main-adminer{
+    /*background-color: green;*/
+}
+
+.delbutton{
+    display: none;
+}
+
+.overview-main-list{
+   display: none; 
+}
+
+.models-to-catalog{
+    height:500px;
+    overflow: auto;
+}
+
+
+.search_empty_properties td{
+    padding:10px;
+}
+
+
+.table_del_products td{
+
+    padding: 15px;
+}
+
+.table_del_products th{
+
+    padding: 15px;
+}
+
+/*config_tracking*/
+
+input.config-tracking-period{
+    height:26px;
+    width: 50px;
+}
+
+input.config-tracking-num{
+    height:26px;
+    width: 90px; 
+    font-size: 14px;
+}
+
+input.config-tracking-shipment-num{
+   height:26px;
+   width: 70px;    
+}
+
+input.config-tracking-date{
+   height:26px;
+   width: 130px; 
+   font-size: 14px;
+}
+
+select.config-tracking-status{
+    height:26px;
+    width: 170px;
+    font-size: 14px;
+}
+
+select.config-tracking-carrier{
+    height:26px;
+    width: 80px;
+    font-size: 14px;
+}
+
+input.config-tracking-link{
+    height:26px;
+    width: 100px;
+    font-size: 10px;
+}
+
+textarea.config-tracking-comment{
+   height:26px;
+    width: 150px; 
+    font-size: 10px;
+}
+
+button.config-tracking-button{
+    height:26px;
+}
+
+.delbutton{
+    display: none;
+}
+
+
+input.received, select.received, textarea.received{
+    background: #adadad;
+}
+
+.tracking_received{
+   background: #adadad; 
+}
+
+.error{
+    color: red;
+    font-weight: bold;
+    font-size: 12px;
+}
+
+
+
+/*SALES -> AUTO KP*/
+#autokp_container {
+    padding-top: 20px;
+}
+
+.autokp-list{
+    border: 1px #9d9d9d solid;
+    height: 450px;
+    overflow: scroll;
+    font-size: 12px;
+    /*background-color: #ebccd1;*/
+}
+
+#autokp_add_article{
+    /*margin-top: 200px;*/
+}
+
+.autokp-model-pic{
+    width: 70px;
+    height: 70px;
+}
+
+.autokp-kplist-pic{
+    width: 50px;
+    height: 50px;
+}
+
+.autokp_art_kp{
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.autokp_separator{
+    border-color: #adadad;
+    color: #adadad;
+    background-color: #adadad;
+    padding: 0;
+    margin: 0;
+}
+
+
+/*Autokp pricing*/
+
+.autokp-art-img {
+    width: 40px;
+    height: 40px;
+}
+input.quantity {
+    width: 60px;
+}
+input.discounts {
+    width: 50px;
+}
+input.hand_price {
+    width: 80px;
+}
+input.delivery_time {
+    width: 100px;
+}
+
+table td {
+    vertical-align: central;
+}
+
+#autokp_currency_rate{
+    width: 80px;
+}
+#autokp_total_sum{
+    width: 150px;
+}
+
+
+.autokp-templates-list{
+    border: 1px #9d9d9d solid;
+    margin-left: 20px;
+    width: 270px;
+    height: 450px;
+    overflow: scroll;
+    font-size: 12px;
+}
+
+.autokp-templates-preview{
+    border: 1px #9d9d9d solid;
+    min-height: 450px;
+    overflow: scroll;
+    font-size: 12px;
+}
+
+.autokp_date{
+    width: 160px;
+}
+
+
+/*Autokp building*/
+.autokp-build-img {
+    width: 80px;
+}
+
+.hide-show-article{
+   display: none; 
+}
+
+
+.autokp_products_tab{
+    font-size: 12px;
+}

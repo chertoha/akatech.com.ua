@@ -1,0 +1,52 @@
+body{
+    margin-top: 80px;
+    
+}
+
+
+.main-adminer{
+    /*background-color: green;*/
+}
+
+.delbutton{
+    display: none;
+}
+
+.overview-main-list{
+   display: none; 
+}
+
+.models-to-catalog{
+    height:500px;
+    overflow: auto;
+}
+
+
+.search_empty_properties td{
+    padding:10px;
+}
+
+
+.table_del_products td{
+
+    padding: 15px;
+}
+
+.table_del_products th{
+
+    padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

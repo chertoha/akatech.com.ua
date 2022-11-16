@@ -1,0 +1,170 @@
+
+
+
+#inner_pdf{ 
+    margin: 0 auto;       
+    width: 100%;
+    font-family: Verdana;
+    /*border:1px solid gold;*/
+}
+
+
+#header_pdf{
+
+    height:150px;
+    /*border:1px solid red;*/
+}
+
+.adress_head{
+
+    text-align: center;
+    font-size:14px;
+    color: darkslategrey;   
+    /*border:1px solid #11FF88;*/
+}
+
+.logo {
+
+    width: 281px;
+    height:95px;
+    margin: 0 auto;    
+    background-repeat: no-repeat;
+}
+
+
+
+#greeting_pdf{
+    height:130px;    
+    font-family: Verdana;
+    /*border:1px solid blue;*/
+
+}
+.date{
+    float:left;
+    margin-left: 10px;
+    width:100px;
+    font-size:14px;
+    /*border:1px solid grey;*/
+}
+.contact{
+    text-align: right;
+    float:right;
+    width:400px;
+    height:80px;
+    font-size:16px;
+    /*border:1px solid grey;*/ 
+
+}
+.commercial{
+    text-align: center;        
+    font-size: 14px;   
+    /*border:1px solid grey;*/ 
+}
+
+
+
+#prod_pdf{
+    /*border:5px solid black;*/
+}
+
+.products {
+    padding-top: 20px;
+    /*height:400px;*/
+    /*border:1px dashed #FF1188;*/
+
+}
+
+.products_simple {
+    /*height:400px;*/
+    /*border:1px dashed #FF1188;*/
+
+}
+
+.pic {
+    color:grey;
+    float:left;
+    width:250px; 
+    height: 250px;
+    border:1px dashed grey;
+}
+.draw {  
+    color:grey;
+    margin-left:255px;
+    height: 250px;
+    /*width:470px;*/
+    border:1px dashed grey;
+}
+.dim {
+    height: 70px;      
+    /*border:1px dashed #880000;*/
+
+}
+
+.dim_table {
+    margin-top: 10px;
+    width:100%;
+    height:40px;
+
+    border-collapse: collapse;
+}
+
+.dim_table tr th {
+    width:20px;
+    padding:5px;
+
+}
+.dim_table tr td {
+    text-align: center;
+}
+
+
+prod_pdf hr {
+    padding: 10px 0;
+}        
+
+
+
+#comment{
+    /*height:100px;*/
+    padding:5px;
+    font-size: 14px;
+    /*border:1px solid #88FF11;*/
+}
+#visitcard{
+    /*height:100px;*/
+    padding:10px;
+    font-size: 14px;
+    /*border:1px solid #88FF11;*/
+}
+#comment h3 {
+    color: crimson;
+}
+#comment p {
+    text-indent: 20px;
+}
+
+
+#footer_pdf{
+    height: 100%;
+
+    position:absolute;
+    bottom:5px;
+    /*border:1px solid crimson;*/
+
+}
+
+.distance {
+    height: 100%;
+    /*background-image: url(img/mini_logo.png);*/
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.adress{      
+    margin-top: -50px;
+    text-align: center;
+    font-size:14px;
+    color: darkslategrey;
+    bottom:10px;
+    /*border:1px solid #11FF88;*/
+}
